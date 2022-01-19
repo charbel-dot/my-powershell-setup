@@ -17,6 +17,7 @@ and use this command to clone this respository in your folder:
 ```git
 git clone https://github.com/charbel-dot/my-powershell-setup.git
 ```
+<hr>
 
 # Help
 
@@ -24,4 +25,5 @@ git clone https://github.com/charbel-dot/my-powershell-setup.git
 ```powershell
 Set-ExecutionPolicy -Scope CurrentUser -ExecutionPolicy AllSigned
 ```
+<hr>
 
