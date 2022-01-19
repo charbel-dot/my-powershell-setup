@@ -14,7 +14,7 @@ and add the file
 `C:/users/YOUR_USER_NAME/.config/`
 
 and use this command to clone this respository in your folder:
-```git
+```bash
 git clone https://github.com/charbel-dot/my-powershell-setup.git
 ```
 <hr>
