@@ -18,7 +18,9 @@ and use this command to clone this respository in your folder:
 git clone https://github.com/charbel-dot/my-powershell-setup.git
 ```
 
-#### If you got any powershell ExecutionPolicy Errors use this command:
+# Help
+
+### If you got any powershell ExecutionPolicy Errors use this command:
 ```powershell
 Set-ExecutionPolicy -Scope CurrentUser -ExecutionPolicy AllSigned
 ```
