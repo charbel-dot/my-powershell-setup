@@ -9,7 +9,10 @@ and add the file
 . $env:USERPROFILE\.config\powershell\user_profile.ps1
 ```
 <hr>
-# 2- Create a .config folder in your home directory e.g: `C:/users/YOUR_USER_NAME/.config/`
+
+# 2- Create a .config folder in your home directory e.g:
+`C:/users/YOUR_USER_NAME/.config/`
+
 and use this command to clone this respository in your folder:
 ```git
 git clone https://github.com/charbel-dot/my-powershell-setup.git
