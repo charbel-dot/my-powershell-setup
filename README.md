@@ -25,5 +25,4 @@ git clone https://github.com/charbel-dot/my-powershell-setup.git
 ```powershell
 Set-ExecutionPolicy -Scope CurrentUser -ExecutionPolicy AllSigned
 ```
-<hr>
 
