@@ -6,7 +6,7 @@ Import-Module oh-my-posh
 Import-Module Terminal-Icons
 Import-Module PSReadLine
 
-Set-PoshPrompt -Theme fish
+Set-PoshPrompt -Theme powerline
 Set-PSReadLineOption -PredictionSource History
 #Set-PSReadLineOption -Colors @{
 	#"Command" = "#7171f7"
@@ -20,3 +20,5 @@ Set-Alias ll ls
 Set-Alias g git
 Set-Alias grep findstr
 Set-Alias time Measure-Command
+Set-Alias output Show-Markdown
+Set-Alias out Show-Markdown
