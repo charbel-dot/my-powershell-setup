@@ -6,7 +6,7 @@ Import-Module oh-my-posh
 Import-Module Terminal-Icons
 Import-Module PSReadLine
 
-Set-PoshPrompt -Theme zash
+Set-PoshPrompt -Theme powerline
 Set-PSReadLineOption -PredictionSource History
 #Set-PSReadLineOption -Colors @{
 	#"Command" = "#7171f7"
